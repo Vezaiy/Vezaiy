@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Vezaiy](github.com/Vezaiy)
 
-- 💬 Ask me about **Data Science, AIML, Genai**
+- 💬 Ask me about **Data Science, AIML, GenAi**
 
 - 📫 How to reach me **vijay.sithambaram@gmail.com**
 
