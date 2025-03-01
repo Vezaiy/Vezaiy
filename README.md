@@ -1,7 +1,5 @@
 ![Header](./github-header-image.png)
 
-<h3 align="center">Data Science with concentration in Computer Science student at ASU Class of 2024. Open to SWE And Data Science Roles.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vezaiy&label=Profile%20views&color=0e75b6&style=flat" alt="vezaiy" /> </p>
 
 - 👯 I’m looking to collaborate on **Data Science/Software Projects**
