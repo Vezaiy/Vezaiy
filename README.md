@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vezaiy&label=Profile%20views&color=0e75b6&style=flat" alt="vezaiy" /> </p>
 
-- 👯 I’m looking to collaborate on **Data Science/Software Projects**
+- 👯 I’m looking to collaborate on **Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/Vezaiy](github.com/Vezaiy)
-
-- 💬 Ask me about **Data Science, AIML, GenAi**
 
 - 📫 How to reach me **vijay.sithambaram@gmail.com**
 
