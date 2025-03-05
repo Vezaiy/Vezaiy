@@ -4,8 +4,6 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 👨‍💻 All of my projects are available at [github.com/Vezaiy](github.com/Vezaiy)
-
 - 📫 How to reach me **vijay.sithambaram@gmail.com**
 
 - ⚡ Fun fact **I like watching and playing basketball**
